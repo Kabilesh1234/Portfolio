@@ -29,7 +29,7 @@ This repository contains the following key files and folders:
 ---
 
 ## 🖼️ Preview
-![Portfolio Preview](Screenshot 2025-01-09 150737.png)(  
+![Portfolio Preview](Screenshot 2025-01-09 150737.png)(Screenshot 2025-01-09 150754.png)  
 
 
 ---

@@ -29,7 +29,7 @@ This repository contains the following key files and folders:
 ---
 
 ## 🖼️ Preview
-![Portfolio Preview](https://via.placeholder.com/800x400)  
+![Portfolio Preview](Screenshot 2025-01-09 150737.png)(  
 
 
 ---

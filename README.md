@@ -30,13 +30,13 @@ This repository contains the following key files and folders:
 
 ## 🖼️ Preview
 ![Portfolio Preview](https://via.placeholder.com/800x400)  
-*(Replace this with a screenshot of your portfolio)*
+
 
 ---
 
 ## 🌐 Live Demo
 Check out the live version of my portfolio:  
-[**View Portfolio**](https://Kabilesh1234.github.io/portfolio)
+[**View Portfolio**](https://kabilesh1234.github.io/Portfolio/)
 
 ---
 
@@ -49,7 +49,6 @@ Check out the live version of my portfolio:
 ## 📬 Contact Me
 - **GitHub:** [Kabilesh1234](https://github.com/Kabilesh1234)
 - **Email:** [kabilesh455@gmail.com](mailto:kabilesh455@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](#)
 
 ---
 
